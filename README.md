@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankit-1729
 - 👀 I’m interested in **Maths and Competitive Programming**
-- 🌱 I’m currently learning **FrontEnd Development**
+- 🌱 I’m currently in the world of **FrontEnd Development**
 - 📫 How to reach me - Email me at ankitlute222@gmail.com
 
 <!---
